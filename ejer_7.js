@@ -4,3 +4,6 @@
 // devuelva un nuevo array con las palabras que tengan más letras que el número 
 // especificado. 
 // Prueba la función filtrarPalabras y muestra el resultado en la consola.
+function filtrarPalabras(palabra,numero){
+
+}
