@@ -27,3 +27,4 @@ function sumaArray(array) {
 }
 console.log("-------------------------------------------------");
 console.log("Suma de los números del array: "+sumaArray(numeros));
+console.log("-------------------------------------------------");
