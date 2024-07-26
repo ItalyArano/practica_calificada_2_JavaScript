@@ -16,7 +16,7 @@ for (let i=1; i<=10; i++) {
     console.log("Posicion "+(i-1)+": "+numeros[i - 1]); // Imprime cada número del array (el -1 idica la posicion )
 }
 console.log("-------------------------------------------------");
-console.log("Array: "+numeros);
+console.log("Array de los números(1-10): "+numeros);
 
 function sumaArray(array) {
     let suma = 0;
