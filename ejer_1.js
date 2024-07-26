@@ -7,7 +7,6 @@
 // en la consola. 
 
 console.log("-------------------------------------------------");
-console.log("---------- Array [1,2,3,4,6,7,8,9,10] -----------");
 console.log("----------------- Suma de todos -----------------");
 console.log("-------------------------------------------------");
 
@@ -16,7 +15,8 @@ for (let i=1; i<=10; i++) {
     numeros.push(i); // Agrega numeros al array
     console.log("Posicion "+(i-1)+": "+numeros[i - 1]); // Imprime cada número del array (el -1 idica la posicion )
 }
-// console.log(numeros);
+console.log("-------------------------------------------------");
+console.log("Array: "+numeros);
 
 function sumaArray(array) {
     let suma = 0;
