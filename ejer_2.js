@@ -28,6 +28,8 @@ function filtrarPares(numeros) {
 
 let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
+console.log("Numeros del array: " + numeros);
+
 console.log("-------------------------------------------------");
 console.log("Números pares:", filtrarPares(numeros)); // Muestra los números pares en la consola
 console.log("-------------------------------------------------");
