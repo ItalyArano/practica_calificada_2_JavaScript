@@ -5,5 +5,6 @@
 // especificado. 
 // Prueba la función filtrarPalabras y muestra el resultado en la consola.
 function filtrarPalabras(palabra,numero){
-
+    let palabra1=[];
+    for(let numero=0;numero<palabra.length;)
 }
