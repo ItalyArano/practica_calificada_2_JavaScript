@@ -15,3 +15,4 @@ function buscarFruta(fruta, buscarArray) {
   console.log(buscarFruta("palta", frutas));//true
   console.log(buscarFruta("per", frutas));//false
   console.log(buscarFruta("manzana", frutas));//true
+  console.log(buscarFruta("manza", frutas));//false
